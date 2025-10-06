@@ -77,6 +77,7 @@ You will need Python and the following libraries to run this script:
 
 The script processes the input image and generates an output image with all detected objects clearly labeled.
 
-**Input (`image.jpg`)**
+Input (`image.jpg`)
 
-**Output (`output_image.jpg`)**
+Output (`output_image.jpg`)
+
